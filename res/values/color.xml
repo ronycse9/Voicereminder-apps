@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="customred">#33CC00</color>
+    <color name="deepred">#336600</color>
+    <color name="lightrosy">#FFFFCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="qdarkrosy">#FFCCCC</color>
+    <color name="ash">#CCCCCC</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FF9900</color>
+    <color name="lightash">#CCFFCC</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#100bf8</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="GreenYellow">#ADFF2F</color>
+    <color name="Lavender ">#E6E6FA</color>
+ </resources>
